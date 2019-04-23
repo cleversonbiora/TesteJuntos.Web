@@ -1,0 +1,62 @@
+body {
+  background-color: #f2f6f8;
+}
+.App {
+  text-align: left;
+}
+#topo{
+  padding: 30px;
+  background-color: #9b75f2;
+  color: white;
+}
+#topo .title{
+  font-weight: normal;
+  font-size: 30px;
+}
+#loginContainer{
+  background-color: #fff;
+}
+.input-container{
+  padding: 15px 30px;
+  border-bottom: 2px solid #e9f2f6;
+}
+.input-container label{
+  color:#9ba4ab;
+}
+.input-container input{
+  padding-top: 10px;
+  color:#646b7a;
+  border: none;
+  font-size: 25px;
+  width:100%;
+}
+.link-container{
+  text-align: center;
+  padding: 20px;
+}
+.link-container a{
+  color:#ba9ef4;
+  text-decoration: none;
+}
+.btn-container button{
+  cursor: pointer;
+  border: none;
+  background-color: #32cccc;
+  padding: 30px 20px;
+  width: 100%;
+  color: #fff;
+  text-align: left;
+  font-size: 20px;
+}
+.btn-container button span{
+  line-height: 39px;
+}
+.btn-container button img{
+  float: right;
+}
+.btn-container button img{
+  height: 40px;
+}
+.btn-container{
+  padding: 20px;
+}
